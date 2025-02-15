@@ -1,2 +1,2 @@
 # LeBron-James-The-Data-Behind-the-Crown
-Explore LeBron James' stats from 2004-2024 with this Power BI dashboard. Analyze points, rebounds, assists, and more through interactive visuals. A tribute to The King's legacy in basketball. Perfect for fans and data enthusiasts alike.
+Welcome to the "LeBron Legacy" repository! This Power BI dashboard showcases LeBron James' incredible career statistics from 2004 to 2024. Dive into his performance metrics, milestones, and records broken over two decades. Featuring interactive visuals, this project highlights his impact on basketball. Use the included .pbix file to explore or recreate the dashboard. Data sourced from official NBA records. Enjoy!
